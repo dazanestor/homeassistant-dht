@@ -4,7 +4,7 @@
   "documentation": "https://github.com/richardzone/homeassistant-dht",
   "issue_tracker": "https://github.com/richardzone/homeassistant-dht/issues",
   "requirements": [
-    "adafruit-circuitpython-dht==3.7.0",
+    "adafruit-circuitpython-dht==3.6.0",
     "RPi.GPIO==0.7.1",
     "tenacity==8.0.1"
   ],
